@@ -1,5 +1,7 @@
-# PogodaOKR_API
-Dokumentacja dostępu do danych zebranych przez projekt Pogoda OKR
+# PogodaOKR API (archiwum)
 
+To repozytorium nie jest już używane i nie zawiera kodu.
 
-API zostanie wydane po modernizacji stacji GOG01
+Dostęp do danych stacji Pogoda OKR opisuje portal: https://portal.pogodaokr.pl/api/plans
+
+Kontakt: kontakt@patryk.pro
